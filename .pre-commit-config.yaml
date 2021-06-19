@@ -5,5 +5,4 @@ repos:
             name: test_cases
             entry: python hooks/test.py
             language: python
-            verbose: true
             always_run: true

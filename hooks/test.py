@@ -11,6 +11,7 @@ x = 3
 if x != 3:
     print("fail")
     exit(1)
+print("... pass")
 # assert x == 3, \
 #     "wrong"
 print("test passed")
