@@ -7,3 +7,4 @@ repos:
             language: system
             types: [python]
             verbose: true
+            always_run: true
