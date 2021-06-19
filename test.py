@@ -2,7 +2,7 @@ if __name__ == "main":
     print("test case 1:")
     x = 1
     assert x == 2, \
-        "wrong"
+        exit(1)
     print("test case 2:")
     x = 3
     assert x == 3, \
