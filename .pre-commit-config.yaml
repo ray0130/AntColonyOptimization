@@ -4,7 +4,6 @@ repos:
         -   id: test_cases
             name: test_cases
             entry: python -m test
-            language: system
-            types: [python]
+            language: python
             verbose: true
             always_run: true
